@@ -1,0 +1,14 @@
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\bin\Debug\net6.0\CódigoFiguras.exe
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\bin\Debug\net6.0\CódigoFiguras.deps.json
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\bin\Debug\net6.0\CódigoFiguras.runtimeconfig.json
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\bin\Debug\net6.0\CódigoFiguras.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\bin\Debug\net6.0\CódigoFiguras.pdb
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\obj\Debug\net6.0\CódigoFiguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\obj\Debug\net6.0\CódigoFiguras.AssemblyInfoInputs.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\obj\Debug\net6.0\CódigoFiguras.AssemblyInfo.cs
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\obj\Debug\net6.0\CódigoFiguras.csproj.CoreCompileInputs.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\obj\Debug\net6.0\CódigoFiguras.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\obj\Debug\net6.0\refint\CódigoFiguras.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\obj\Debug\net6.0\CódigoFiguras.pdb
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\obj\Debug\net6.0\CódigoFiguras.genruntimeconfig.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\CódigoFiguras\obj\Debug\net6.0\ref\CódigoFiguras.dll
